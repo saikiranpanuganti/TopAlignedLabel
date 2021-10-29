@@ -13,6 +13,7 @@
 		7FEDB437272BF4AB001B7139 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FEDB435272BF4AB001B7139 /* Main.storyboard */; };
 		7FEDB439272BF4AD001B7139 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FEDB438272BF4AD001B7139 /* Assets.xcassets */; };
 		7FEDB43C272BF4AD001B7139 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FEDB43A272BF4AD001B7139 /* LaunchScreen.storyboard */; };
+		7FEDB444272BF4C6001B7139 /* TopAlignedLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEDB443272BF4C6001B7139 /* TopAlignedLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7FEDB438272BF4AD001B7139 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7FEDB43B272BF4AD001B7139 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7FEDB43D272BF4AD001B7139 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FEDB443272BF4C6001B7139 /* TopAlignedLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopAlignedLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7FEDB42F272BF4AB001B7139 /* AppDelegate.swift */,
 				7FEDB431272BF4AB001B7139 /* SceneDelegate.swift */,
 				7FEDB433272BF4AB001B7139 /* ViewController.swift */,
+				7FEDB443272BF4C6001B7139 /* TopAlignedLabel.swift */,
 				7FEDB435272BF4AB001B7139 /* Main.storyboard */,
 				7FEDB438272BF4AD001B7139 /* Assets.xcassets */,
 				7FEDB43A272BF4AD001B7139 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				7FEDB434272BF4AB001B7139 /* ViewController.swift in Sources */,
 				7FEDB430272BF4AB001B7139 /* AppDelegate.swift in Sources */,
 				7FEDB432272BF4AB001B7139 /* SceneDelegate.swift in Sources */,
+				7FEDB444272BF4C6001B7139 /* TopAlignedLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
